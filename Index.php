@@ -1,29 +1,38 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-    <?php include 'C:\MAMP\htdocs\site HumArt/Index.html';?>
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="bootstrap-4.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/estilo.css">
-    <title> Arte Cultural </title>
+
+    <link rel="stylesheet" href="bootstrap-4.3.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/estilo.css" />
+
+    <title>HumArt</title>
 </head>
 
 <body>
-    <div class="countainer">
+    <div class="container">
         <div class="row">
-            <header>
-               
-            </header>
+                <header>
+                    <?php include 'php/header.php';?>
+                </header>
+        </div>
+        <div class="row">
+            <?php include 'php/nav.php';?>
         </div>
         <div class="row">
             <article>
+                <div class="col-12">
+                    <h1></h1>
+                </div>
+
             </article>
         </div>
         <div class="row">
             <footer>
-                <small> &copy; Dmitri Patrício de Lima, Carlos Daniel Barbosa Benfica, Vitor Gabriel Vicentini, Robert Richard Cruz da Silva</small>
+                <?php include 'php/footer.php';?>
             </footer>
         </div>
     </div>
