@@ -8,7 +8,7 @@ echo'
 
 <div class="collapse navbar-collapse" id="nav-site">
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-        <li class="nav-item active"><a class="nav-link" href="Index.php">Home <span class="sr-only">(current)</span></a>
+        <li class="nav-item"><a class="nav-link" href="Index.php">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Historia da Arte</a>
@@ -38,8 +38,6 @@ echo'
                 <a class="dropdown-item" href="#">Modelos</a>
             </div>
         </li>
-        <li class="nav-item">
-            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a></li>
         <li class="nav-item"><a class="nav-link" href="#">Quem Somos</a></li>
         <li class="nav-item"><a class="nav-link" href="#">cotatos</a></li>
     </ul>
