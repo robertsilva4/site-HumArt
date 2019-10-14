@@ -25,7 +25,7 @@
         <div class="row">
             <article>
                 <div class="col-12">
-                    <h1></h1>
+                    <h1>Home</h1>
                 </div>
 
             </article>

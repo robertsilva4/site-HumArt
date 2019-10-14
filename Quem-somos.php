@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="bootstrap-4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/estilo.css">
-    <title>Arte tribal</title>
+    <title>Quem Somos</title>
 </head>
 
 <body>
@@ -21,9 +21,13 @@
             <?php include 'php/nav.php';?>
         </div>
         <div class="row">
-            <article>
-                <h1> Arte Tribal </h1>
-            </article>
+            <main>
+                <article>
+                    <div class="col-12">
+                        <h1>Quem Somos</h1>
+                    </div>
+                </article>
+            </main>
         </div>
         <div class="row">
             <footer>

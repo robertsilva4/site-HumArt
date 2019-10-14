@@ -22,7 +22,7 @@
         </div>
         <div class="row">
             <article>
-                <h1> Historia </h1>
+                <h1> Historia da arte </h1>
             </article>
         </div>
         <div class="row">

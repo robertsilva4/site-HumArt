@@ -21,35 +21,28 @@
             <?php include 'php/nav.php';?>
         </div>
         <div class="row">
-            <article>
-                <div class="col-12">
-                    <h1></h1>
-                </div>
-
-            </article>
-        </div>
-        <div class="row">
-            <div class="col-12">
-            <figure>
-                <img src="images/" alt="" height="" width="">
-                <figcaption>
-                    <h2>História do Robert Richard</h2>
-                </figcaption>
-            </figure>
-            </div>
-            <form action="Codigo-email.php" method="post">
-                <fieldset class="col-12">
-                    <label for="email">E-mail: </label>
-                    <input required name="email" type="email">
-                </fieldset>
-                <fieldset class="col-12">
-                    <label for="mensagem">Mensagem: </label>
-                    <textarea required name="mensagem"></textarea>
-                </fieldset>
-                <fieldset>
-                    <button type="submit">Enviar</button>
-                </fieldset>
-            </form>
+            <main>
+                <article>
+                    <div class="col-12">
+                        <h1>Contatos</h1>
+                    </div>
+                </article>
+                <aside>
+                    <form action="Codigo-email.php" method="post">
+                        <fieldset class="col-12">
+                            <label for="email">E-mail: </label>
+                            <input required name="email" type="email">
+                        </fieldset>
+                        <fieldset class="col-12">
+                            <label for="mensagem">Mensagem: </label>
+                            <textarea required name="mensagem"></textarea>
+                        </fieldset>
+                        <fieldset>
+                            <button type="submit">Enviar</button>
+                        </fieldset>
+                    </form>
+                </aside>
+            </main>
         </div>
         <div class="row">
             <footer>

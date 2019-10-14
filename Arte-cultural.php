@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-    <?php include 'C:\MAMP\htdocs\site-HumArt/Index.html';?>
+    <?php include 'C:\MAMP\htdocs\site HumArt/Index.html';?>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="bootstrap-4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/estilo.css">
-    <title>Arte tribal</title>
+    <title> Arte Cultural </title>
 </head>
 
 <body>
@@ -22,7 +22,7 @@
         </div>
         <div class="row">
             <article>
-                <h1> Arte Tribal </h1>
+                <h1> Arte Cultural </h1>
             </article>
         </div>
         <div class="row">
