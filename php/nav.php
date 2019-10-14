@@ -34,12 +34,12 @@ echo'
         <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Arte Tribal</a>
             <div class="dropdown-menu">
-                <a class="dropdown-item" href="#">Arte Tribal</a>
+                <a class="dropdown-item" href="Arte-tribal.php">Arte Tribal</a>
                 <a class="dropdown-item" href="#">Modelos</a>
             </div>
         </li>
         <li class="nav-item"><a class="nav-link" href="#">Quem Somos</a></li>
-        <li class="nav-item"><a class="nav-link" href="#">cotatos</a></li>
+        <li class="nav-item"><a class="nav-link" href="Contatos.php">cotatos</a></li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
         <input class="form-control mr-sm-2" type="search" placeholder="pesquisar" aria-label="Search">
