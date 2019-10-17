@@ -21,28 +21,55 @@
             <?php include 'php/nav.php';?>
         </div>
         <div class="row">
+            <div class="col-lg-12 ">
             <main>
                 <article>
-                    <div class="col-12">
-                        <h1>Contatos</h1>
+                    <div class="float-lg-left col-lg-7">
+                    <h1 class="text-center">Contatos</h1>
+                        <figure>
+                            <figcaption></figcaption>
+                        </figure>
                     </div>
                 </article>
                 <aside>
-                    <form action="Codigo-email.php" method="post">
-                        <fieldset class="col-12">
-                            <label for="email">E-mail: </label>
-                            <input required name="email" type="email">
-                        </fieldset>
-                        <fieldset class="col-12">
-                            <label for="mensagem">Mensagem: </label>
-                            <textarea required name="mensagem"></textarea>
-                        </fieldset>
-                        <fieldset>
-                            <button type="submit">Enviar</button>
-                        </fieldset>
-                    </form>
+                    <div class="col-lg-5 float-lg-right">
+                        <h2 class="text-center">Contate-nos</h2>
+                        <form action="Codigo-email.php" method="POST">
+                            <div class="form-group">
+                                <div>
+                                    <label for="emailcliente">Digite o seu E-mail:</label>
+                                    <input type="email" class="form-control" id="emailcliente" placeholder="name@example.com" required>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                    <label for="formulariodeselecao">Selecione um E-mail de destino:</label>
+                                    <select class="form-control" id="formulariodeselecao" required>
+                                        <option value="">Selecionar uma opção</option>
+                                        <option value="1">1-Carlos Benfica</option>
+                                        <option value="2">2-Dmitri Patricio</option>
+                                        <option value="3">3-Robert Richard</option>
+                                        <option value="4">4-Vitor Vicentini</option>
+                                    </select>
+                            </div>
+                            <div class="form-group">
+                                    <label for="campodeformulario">Seleção de E-mails:</label>
+                                    <select multiple class="form-control" id="campodeformulario">
+                                        <option>1 - carlos.benfica@fatec.sp.gov.br</option>
+                                        <option>2 - dmitrilimaonlie@gmail.com</option>
+                                        <option>3 - robert.silva4@fatec.sp.gov.br</option>
+                                        <option>4 - vitor.vicentini@fatec.sp.gov.br</option>
+                                    </select>
+                            </div>
+                            <div class="form-group">
+                                    <label for="caixadetexto">Caixa de texto:</label>
+                                    <textarea class="form-control" id="caixadetexto" rows="4" required></textarea>
+                            </div>
+                                <button type="submit" class="btn btn-primary mb-2">Enviar</button>
+                        </form>
+                    </div>
                 </aside>
             </main>
+            </div>
         </div>
         <div class="row">
             <footer>

@@ -1,6 +1,7 @@
 <?php
 
 echo'
+<div class="col-lg-12">
 <nav class="navbar navbar-expand-lg navbar-light bg-light ">
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-site" aria-controls="nav-site" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -46,4 +47,5 @@ echo'
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
     </form>
 </div>
-</nav>';
+</nav>
+</div>';
