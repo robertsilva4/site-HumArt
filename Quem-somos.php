@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-    <?php include 'C:\MAMP\htdocs\site-HumArt/Index.html';?>
+<?php include 'C:\MAMP\htdocs\site-HumArt/Index.html';?>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
@@ -14,20 +15,61 @@
     <div class="container">
         <div class="row">
             <header>
-               <?php include 'php/header.php';?>
+                <?php include 'php/header.php';?>
             </header>
         </div>
         <div class="row">
             <?php include 'php/nav.php';?>
         </div>
         <div class="row">
-            <main>
-                <article>
-                    <div class="col-12">
-                        <h1>Quem Somos</h1>
-                    </div>
-                </article>
-            </main>
+            <div class="col-12">
+                <main>
+                    <article>
+                        <h1 class="text-center">Quem Somos</h1>
+                        <div class="col-lg-6 float-left">
+                            <figure>
+                                <img src="images/Dmitri_contato.png" class="rounded-circle" alt="imagem de um avatar do Dmitri" height="200" width="204" />
+                                <figcaption class="figure-caption float-right col-lg-7">
+                                    <h2>História do Dmitri</h2>
+                                    <p class="text-justify">Dmitri Lima</p>
+                                    <a href="Historia-da-arte.php">História da Arte, </a>
+                                    <a href="">categorias</a>
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="col-lg-6 float-right">
+                            <figure>
+                                <img src="images/carlos_contato.jpg" class="rounded-circle" alt="imagem do carlos olhando o horizonte" height="200" width="204" />
+                                <figcaption class="figure-caption float-right col-lg-7">
+                                    <h2>História do Carlos</h2>
+                                    <p class="text-justify">Nascido em Cuiabá - Mato Grosso na data de 04/02/2001.</p>
+                                    <a href="Tatuagens.php">Tatuagens, </a><a href="">Modelos</a>
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="col-lg-6 float-left">
+                            <figure>
+                                <img src="images/IMG_20171225_034345_737.jpg" class="rounded-circle" alt="imagem do Robert muito sério" height="200" width="204" />
+                                <figcaption class="figure-caption float-right col-lg-7">
+                                    <h2>História do Dmitri</h2>
+                                    <p class="text-justify">Sou Robert Richard, tenho 22 anos atualmente estou desempregado e estudando para conseguir uma vaga de emprego na área de Tecnologia.</p>
+                                    <p class="text-bold">Páginas: <a href="Arte-cultural.php">Arte cultural,</a> <a href="">Modelos</a></p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="col-lg-6 float-right">
+                            <figure>
+                                <img src="" class="rounded-circle" alt="imagem do Vitor" height="200" width="204" />
+                                <figcaption class="figure-caption float-right col-lg-7">
+                                    <h2>História do Vitor</h2>
+                                    <p class="text-justify">Vitor Vicentini</p>
+                                    <a href="Arte-tribal.php">Arte Tibal, </a><a href="">Modelos</a>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </article>
+                </main>
+            </div>
         </div>
         <div class="row">
             <footer>
