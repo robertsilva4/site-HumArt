@@ -15,20 +15,28 @@
 <body>
     <div class="container">
         <div class="row">
-                <header>
-                    <?php include 'php/header.php';?>
-                </header>
+            <header>
+                <?php include 'php/header.php';?>
+            </header>
         </div>
         <div class="row">
             <?php include 'php/nav.php';?>
         </div>
         <div class="row">
-            <article>
-                <div class="col-12">
-                    <h1>Home</h1>
-                </div>
-
-            </article>
+            <div class="col-lg-12">
+                <main>
+                    <div class="col-lg-7 float-lg-left">
+                        <article>
+                            <h1>Home</h1>
+                        </article>
+                    </div>
+                    <div class="col-lg-5 float-lg-right">
+                        <aside>
+                            <h2>texto home</h2>
+                        </aside>
+                    </div>
+                </main>
+            </div>
         </div>
         <div class="row">
             <footer>

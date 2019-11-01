@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-    <?php include 'C:\MAMP\htdocs\site HumArt/Index.html';?>
+<?php include 'C:\MAMP\htdocs\site HumArt/Index.html';?>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
@@ -14,16 +15,45 @@
     <div class="container">
         <div class="row">
             <header>
-               <?php include 'php/header.php';?>
+                <?php include 'php/header.php';?>
             </header>
         </div>
         <div class="row">
             <?php include 'php/nav.php';?>
         </div>
-        <div class="row">
-            <article>
-                <h1> Arte Cultural </h1>
-            </article>
+        <div class="row align-items-center">
+            <div class="col-lg-12">
+                <main>
+                    <div class="float-lg-left col-lg-7">
+                        <article>
+                            <h1 class="h1 text-center"> Arte Cultural </h1>
+                            <p class="text-justify"> A arte e a cultura são duas coisas fundamentais para o ser humano, e para o seu desenvolviento intelectual.</p>
+                            <p class="text-justify">Sabemos que a arte é uma ferramenta utiizada para o ser expressar suas emoções, sentimentos e suas manifestações vem surgindo em diversas maneiras nas diversas culturas.</p>
+                            <h2 class="h2 text-center">Siginificado de cultura.</h2>
+                            <p class="text-justify">A cultura origina-se da liguagem latina e significa "cuidar de". A cultura esta reacionada à diversas áreas do conhecimento e podemos citar algumas como; conjunto de conhcimentos, costumes, crenças, padrões de conhecimentos adquiridos e transmitidos de geração em gereção.</p>
+                            <p class="text-justify">Apesar da cultura estar associada ao costume de povos e todas as formas de seus cohecimentos, a arte se associa-se à cultura quando referenciada à esculturas, pinturas, teatros entre outras formas de se expressar.</p>
+                            <h2 class="h2 text-center">Siginificado de Arte.</h2>
+                            <p class="text-justify">A palavra arte orgina-se da linguagem latina e significa técnica ou habilidade. E se associa-se diretamente a criações, porém a arte vem sofrendo mudanças de uns tempos para a data atual.</p>
+                            <p class="text-justify">Seu coceito sofreu mudanças e subentede-se que a arte é uma forma de como um homem pode expressar os seus setimentos, pensamentos e convicções.</p>
+                        </article>
+                    </div>
+                    <div class="col-lg-5 float-lg-right">
+                        <aside>
+                            <h2 class="h1 text-center">Modelos de Arte Cultural Brasileira</h2>
+                            <div class="text-center">
+                                <figure class="figure">
+                                    <img class="figure-img img-fluid rounded" src="images/capoeira.jpg" alt="retrato capoeira da obra de arte feita por Elvis da Silva." width="400" height="233">
+                                    <figcaption>Arte: Elvis da Silva</figcaption>
+                                </figure>
+                                <figure class="figure">
+                                    <img class="figure-img img-fluid rounded" src="images/bonecos-de-barro.jpg" alt="image de bonecos de barro do sertão." width="400" height="233">
+                                    <figcaption>Bonecos de Barro.</figcaption>
+                                </figure>
+                            </div>
+                        </aside>
+                    </div>
+                </main>
+            </div>
         </div>
         <div class="row">
             <footer>

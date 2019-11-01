@@ -51,7 +51,7 @@
                             <figure>
                                 <img src="images/IMG_20171225_034345_737.jpg" class="rounded-circle" alt="imagem do Robert muito sério" height="200" width="204" />
                                 <figcaption class="figure-caption float-right col-lg-7">
-                                    <h2>História do Dmitri</h2>
+                                    <h2>História do Robert</h2>
                                     <p class="text-justify">Sou Robert Richard, tenho 22 anos atualmente estou desempregado e estudando para conseguir uma vaga de emprego na área de Tecnologia.</p>
                                     <p class="text-bold">Páginas: <a href="Arte-cultural.php">Arte cultural,</a> <a href="">Modelos</a></p>
                                 </figcaption>
@@ -59,7 +59,7 @@
                         </div>
                         <div class="col-lg-6 float-right">
                             <figure>
-                                <img src="" class="rounded-circle" alt="imagem do Vitor" height="200" width="204" />
+                                <img src="images/imagem%20vitor2.png" class="rounded-circle" alt="imagem do Vitor" height="200" width="204" />
                                 <figcaption class="figure-caption float-right col-lg-7">
                                     <h2>História do Vitor</h2>
                                     <p class="text-justify">Vitor Vicentini</p>

@@ -26,6 +26,10 @@
                     <div class="float-lg-left col-lg-7">
                         <article>
                             <h1 class="text-center">Contatos</h1>
+                            <figure>
+                                <img src="images/logo%20faceboook.png" alt="" height="" width="" />
+                                <figcaption></figcaption>
+                            </figure>
                         </article>
                     </div>
                     <div class="col-lg-5 float-lg-right">
