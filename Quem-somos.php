@@ -26,46 +26,65 @@
                 <main>
                     <article>
                         <h1 class="text-center">Quem Somos</h1>
-                        <div class="col-lg-6 float-left">
-                            <figure>
-                                <img src="images/Dmitri_contato.png" class="rounded-circle" alt="imagem de um avatar do Dmitri" height="200" width="204" />
-                                <figcaption class="figure-caption float-right col-lg-7">
-                                    <h2>História do Dmitri</h2>
-                                    <p class="text-justify">Dmitri Lima</p>
-                                    <a href="Historia-da-arte.php">História da Arte, </a>
-                                    <a href="">categorias</a>
-                                </figcaption>
-                            </figure>
+                        <div class="card mb-3 float-left" style="max-width: 550px; max-height:205px">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
+                                    <img src="images/Dmitri_quemsomos.png" class="card-img" alt="..." width="186" height="190">
+                                </div>
+                                <div class="col-md-7">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Dmitri Patricio</h5>
+                                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+                                        <p>Sites:<a href="Historia-da-arte.php">História da Arte</a>,<a href="#">Espécies</a>.</p>
+                                        <p class="card-text"><small class="text-muted">Função:Gerente</small></p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-lg-6 float-right">
-                            <figure>
-                                <img src="images/carlos_contato.jpg" class="rounded-circle" alt="imagem do carlos olhando o horizonte" height="200" width="204" />
-                                <figcaption class="figure-caption float-right col-lg-7">
-                                    <h2>História do Carlos</h2>
-                                    <p class="text-justify">Nascido em Cuiabá - Mato Grosso na data de 04/02/2001.</p>
-                                    <a href="Tatuagens.php">Tatuagens, </a><a href="">Modelos</a>
-                                </figcaption>
-                            </figure>
+                        <div class="card mb-3 float-right" style="max-width: 550px; max-height:205px">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
+                                    <img src="images/carlos_quemsomos.jpg" class="card-img" alt="..." width="186" height="190">
+                                </div>
+                                <div class="col-md-7">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Carlos Benfica</h5>
+                                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+                                        <p>Sites:<a href="Tatuagens.php">História da Tatoo</a>,<a href="#">Modelos</a>.</p>
+                                        <p class="card-text"><small class="text-muted">Função:Design</small></p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-lg-6 float-left">
-                            <figure>
-                                <img src="images/IMG_20171225_034345_737.jpg" class="rounded-circle" alt="imagem do Robert muito sério" height="200" width="204" />
-                                <figcaption class="figure-caption float-right col-lg-7">
-                                    <h2>História do Robert</h2>
-                                    <p class="text-justify">Sou Robert Richard, tenho 22 anos atualmente estou desempregado e estudando para conseguir uma vaga de emprego na área de Tecnologia.</p>
-                                    <p class="text-bold">Páginas: <a href="Arte-cultural.php">Arte cultural,</a> <a href="">Modelos</a></p>
-                                </figcaption>
-                            </figure>
+                        <div class="card mb-3 float-left" style="max-width: 550px; max-height:205px;">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
+                                    <img src="images/robert_quemsomos.jpg" class="card-img" alt="..." width="186" height="190">
+                                </div>
+                                <div class="col-md-7">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Robert Silva</h5>
+                                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+                                        <p>Sites:<a href="Arte-cultural.php">História da Arte Cultural</a>,<a href="#">Modelos</a>.</p>
+                                        <p class="card-text"><small class="text-muted">Função:Programador</small></p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-lg-6 float-right">
-                            <figure>
-                                <img src="images/imagem%20vitor2.png" class="rounded-circle" alt="imagem do Vitor" height="200" width="204" />
-                                <figcaption class="figure-caption float-right col-lg-7">
-                                    <h2>História do Vitor</h2>
-                                    <p class="text-justify">Vitor Vicentini</p>
-                                    <a href="Arte-tribal.php">Arte Tibal, </a><a href="">Modelos</a>
-                                </figcaption>
-                            </figure>
+                        <div class="card mb-3 float-right" style="max-width: 550px; max-height:205px;">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
+                                    <img src="images/vitor_quemsomos.png" class="card-img" alt="imagem do integrante Vitor" width="186" height="190">
+                                </div>
+                                <div class="col-md-7">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Vitor Vicentini</h5>
+                                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+                                        <p>Sites:<a href="Arte-tribal.php">História da Arte Tribal</a>,<a href="#">Modelos</a>.</p>
+                                        <p class="card-text"><small class="text-muted">Função:Programador2</small></p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </article>
                 </main>

@@ -21,9 +21,11 @@
             <?php include 'php/nav.php';?>
         </div>
         <div class="row">
+            <main>
             <article>
                 <h1> Historia da arte </h1>
             </article>
+            </main>
         </div>
         <div class="row">
             <footer>

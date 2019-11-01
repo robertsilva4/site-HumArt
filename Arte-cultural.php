@@ -30,11 +30,11 @@
                             <p class="text-justify"> A arte e a cultura são duas coisas fundamentais para o ser humano, e para o seu desenvolviento intelectual.</p>
                             <p class="text-justify">Sabemos que a arte é uma ferramenta utiizada para o ser expressar suas emoções, sentimentos e suas manifestações vem surgindo em diversas maneiras nas diversas culturas.</p>
                             <h2 class="h2 text-center">Siginificado de cultura.</h2>
-                            <p class="text-justify">A cultura origina-se da liguagem latina e significa "cuidar de". A cultura esta reacionada à diversas áreas do conhecimento e podemos citar algumas como; conjunto de conhcimentos, costumes, crenças, padrões de conhecimentos adquiridos e transmitidos de geração em gereção.</p>
-                            <p class="text-justify">Apesar da cultura estar associada ao costume de povos e todas as formas de seus cohecimentos, a arte se associa-se à cultura quando referenciada à esculturas, pinturas, teatros entre outras formas de se expressar.</p>
+                            <p class="text-justify">A cultura origina-se da liguagem latina e significa "cuidar de". A cultura está relacionada à diversas áreas do conhecimento e podemos citar algumas como; conjunto de conhcimentos, costumes, crênças, padrões de conhecimentos adquiridos e transmitidos de geração em gereção.</p>
+                            <p class="text-justify">Apesar da cultura estar associada ao costume de povos e todas as formas de seus cohecimentos, a arte se associa à cultura quando referênciada à esculturas, pinturas, teatros entre outras formas de se expressão.</p>
                             <h2 class="h2 text-center">Siginificado de Arte.</h2>
                             <p class="text-justify">A palavra arte orgina-se da linguagem latina e significa técnica ou habilidade. E se associa-se diretamente a criações, porém a arte vem sofrendo mudanças de uns tempos para a data atual.</p>
-                            <p class="text-justify">Seu coceito sofreu mudanças e subentede-se que a arte é uma forma de como um homem pode expressar os seus setimentos, pensamentos e convicções.</p>
+                            <p class="text-justify">Seu conceito sofreu mudanças e subentede-se que a arte é uma forma de como um homem pode expressar os seus setimentos, pensamentos e convicções.</p>
                         </article>
                     </div>
                     <div class="col-lg-5 float-lg-right">
@@ -43,11 +43,11 @@
                             <div class="text-center">
                                 <figure class="figure">
                                     <img class="figure-img img-fluid rounded" src="images/capoeira.jpg" alt="retrato capoeira da obra de arte feita por Elvis da Silva." width="400" height="233">
-                                    <figcaption>Arte: Elvis da Silva</figcaption>
+                                    <figcaption class='figure-caption text-left'>Cultura negra, Elvis da Silva</figcaption>
                                 </figure>
                                 <figure class="figure">
                                     <img class="figure-img img-fluid rounded" src="images/bonecos-de-barro.jpg" alt="image de bonecos de barro do sertão." width="400" height="233">
-                                    <figcaption>Bonecos de Barro.</figcaption>
+                                    <figcaption class='figure-caption text-left'>Bonecos de Barro do Sertão, Marcio Cabral de Moura.</figcaption>
                                 </figure>
                             </div>
                         </aside>
@@ -55,7 +55,7 @@
                 </main>
             </div>
         </div>
-        <div class="row">
+        <div class="row align-items-end">
             <footer>
                 <?php include 'php/footer.php';?>
             </footer>
