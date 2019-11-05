@@ -26,20 +26,20 @@
                 <main>
                     <div class="float-lg-left col-lg-7">
                         <article>
-                            <h1 class="h1 text-center"> Arte Cultural </h1>
+                            <h1 class="h1 text-center p-3"> Arte Cultural </h1>
                             <p class="text-justify"> A arte e a cultura são duas coisas fundamentais para o ser humano, e para o seu desenvolviento intelectual.</p>
                             <p class="text-justify">Sabemos que a arte é uma ferramenta utiizada para o ser expressar suas emoções, sentimentos e suas manifestações vem surgindo em diversas maneiras nas diversas culturas.</p>
-                            <h2 class="h2 text-center">Siginificado de cultura.</h2>
+                            <h2 class="h2 text-center p-3">Siginificado de cultura.</h2>
                             <p class="text-justify">A cultura origina-se da liguagem latina e significa "cuidar de". A cultura está relacionada à diversas áreas do conhecimento e podemos citar algumas como; conjunto de conhcimentos, costumes, crênças, padrões de conhecimentos adquiridos e transmitidos de geração em gereção.</p>
                             <p class="text-justify">Apesar da cultura estar associada ao costume de povos e todas as formas de seus cohecimentos, a arte se associa à cultura quando referênciada à esculturas, pinturas, teatros entre outras formas de se expressão.</p>
-                            <h2 class="h2 text-center">Siginificado de Arte.</h2>
+                            <h2 class="h2 text-center p-3">Siginificado de Arte.</h2>
                             <p class="text-justify">A palavra arte orgina-se da linguagem latina e significa técnica ou habilidade. E se associa-se diretamente a criações, porém a arte vem sofrendo mudanças de uns tempos para a data atual.</p>
                             <p class="text-justify">Seu conceito sofreu mudanças e subentede-se que a arte é uma forma de como um homem pode expressar os seus setimentos, pensamentos e convicções.</p>
                         </article>
                     </div>
                     <div class="col-lg-5 float-lg-right">
                         <aside>
-                            <h2 class="h1 text-center">Modelos de Arte Cultural Brasileira</h2>
+                            <h2 class="h1 text-center p-3">Modelos de Arte Cultural Brasileira</h2>
                             <div class="text-center">
                                 <figure class="figure">
                                     <img class="figure-img img-fluid rounded" src="images/capoeira.jpg" alt="retrato capoeira da obra de arte feita por Elvis da Silva." width="400" height="233">

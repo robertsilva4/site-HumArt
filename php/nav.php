@@ -29,7 +29,7 @@ echo'
             <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Arte Cultural</a>
             <div class="dropdown-menu">
                 <a class="dropdown-item" href="Arte-cultural.php">História da Arte Cultural</a>
-                <a class="dropdown-item" href="#">Modelos</a>
+                <a class="dropdown-item" href="Modelos-artecultural.php">Modelos</a>
             </div>
         </li>
         <li class="nav-item dropdown">
