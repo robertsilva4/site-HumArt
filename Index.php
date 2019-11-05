@@ -28,7 +28,7 @@
                 <main>
                     <div class="col-lg-7 float-lg-left">
                         <article>
-                            <h1></h1>
+                            <h1>home</h1>
                         </article>
                     </div>
                     <div class="col-lg-5 float-lg-right">
