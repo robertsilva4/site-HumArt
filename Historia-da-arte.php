@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-    <?php include 'C:\MAMP\htdocs\site-HumArt/Index.html';?>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
@@ -14,7 +14,7 @@
     <div class="container">
         <div class="row">
             <header>
-               <?php include 'php/header.php';?>
+                <?php include 'php/header.php';?>
             </header>
         </div>
         <div class="row">
@@ -22,9 +22,9 @@
         </div>
         <div class="row">
             <main>
-            <article>
-                <h1> Historia da arte </h1>
-            </article>
+                <article>
+                    <h1> Historia da arte </h1>
+                </article>
             </main>
         </div>
         <div class="row">

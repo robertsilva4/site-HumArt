@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<?php include 'C:\MAMP\htdocs\site HumArt/Index.html';?>
 
 <head>
     <meta charset="UTF-8">

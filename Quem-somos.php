@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<?php include 'C:\MAMP\htdocs\site-HumArt/Index.html';?>
 
 <head>
     <meta charset="UTF-8">
@@ -29,7 +28,7 @@
                         <div class="card mb-3 float-left" style="max-width: 550px; max-height:210px">
                             <div class="row no-gutters">
                                 <div class="col-md-4">
-                                    <img src="images/Dmitri_quemsomos.png" class="card-img" alt="..." width="186" height="190">
+                                    <img src="images/Dmitri_quemsomos.jpg" class="card-img" alt="..." width="186" height="190">
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
@@ -73,7 +72,7 @@
                         <div class="card mb-3 float-right" style="max-width: 550px; max-height:210px;">
                             <div class="row no-gutters">
                                 <div class="col-md-4">
-                                    <img src="images/vitor_quemsomos.png" class="card-img" alt="imagem do integrante Vitor" width="186" height="190">
+                                    <img src="images/vitor_quemsomos.jpg" class="card-img" alt="imagem do integrante Vitor" width="186" height="190">
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">

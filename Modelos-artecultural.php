@@ -27,15 +27,15 @@
                         <h1 class="text-center p-3"> Modelos da Arte Cultural </h1>
                         <div class="text-center">
                             <figure class="figure">
-                                <a href="https://multarte.com.br/arte-africana-e-cultura-afro/"><img src="images/arte%20e%20cultura%20africana_300x247.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagem de uma roda da cultura africana" width="300" height="250" /></a>
+                                <a href="https://multarte.com.br/arte-africana-e-cultura-afro/"><img src="images/arte%20e%20cultura%20africana_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagem de uma roda da cultura africana" width="300" height="250" /></a>
                                 <figcaption class="figure-caption">Cultura Africana</figcaption>
                             </figure>
                             <figure class="figure p-4">
-                                <a href="http://www.araraquara.sp.gov.br/noticias/2019/outubro/29/vice-prefeito-prestigia-festival-de-arte-e-cultura-chinesa"><img src="images/arte%20e%20cultura%20chinesa_300x251.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagem de pessoas chineses segurando um dragão" width="300" height="250" /></a>
+                                <a href="http://www.araraquara.sp.gov.br/noticias/2019/outubro/29/vice-prefeito-prestigia-festival-de-arte-e-cultura-chinesa"><img src="images/arte%20e%20cultura%20chinesa_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagem de pessoas chineses segurando um dragão" width="300" height="250" /></a>
                                 <figcaption class="figure-caption">Cultura chinesa</figcaption>
                             </figure>
                             <figure class="figure">
-                                <a href="http://www.bentogoncalves.rs.gov.br/noticia/arte-e-cultura-italiana-em-evidencia"><img src="images/arte%20e%20cultura%20italiana_300x253.jpg" class=" figure-img img-fluid rounded mx-auto d-bloc" alt="imagens de pessoas cantando em italiano" width="300" height="250" /></a>
+                                <a href="http://www.bentogoncalves.rs.gov.br/noticia/arte-e-cultura-italiana-em-evidencia"><img src="images/arte%20e%20cultura%20italiana_300x250.jpg" class=" figure-img img-fluid rounded mx-auto d-bloc" alt="imagens de pessoas cantando em italiano" width="300" height="250" /></a>
                                 <figcaption class="figure-caption"> imagem da cultura italiana</figcaption>
                             </figure>
                         </div>

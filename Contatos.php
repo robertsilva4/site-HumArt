@@ -25,10 +25,42 @@
                 <main>
                     <div class="float-lg-left col-lg-7">
                         <article>
-                            <h1 class="text-center">Contatos</h1>
-                            <figure>
-                                <img src="images/logo%20faceboook.png" alt="" height="" width="" />
-                                <figcaption></figcaption>
+                            <h1 class="text-center p-3">Contatos</h1>
+                            <figure class="col-lg-5 figure p-2">
+                                <img class="figure-img img-fluid rounded float-left" src="images/logo%20faceboook.png" alt="" height="150" width="150" />
+                                <figcaption class="figure-caption float-right">
+                                    <p><a href="#">Dmitri Patricio</a></p>
+                                    <p><a href="#">Carlos Benfica</a></p>
+                                    <p><a href="#">Robert Silva</a></p>
+                                    <p><a href="#">Vitor Vicentini</a></p>
+                                </figcaption>
+                            </figure>
+                            <figure class="col-lg-5 figure p-2">
+                                <img class="figure-img img-fluid rounded float-left" src="images/logo%20linkedin.png" alt="" height="150" width="150" />
+                                <figcaption class="figure-caption float-right">
+                                    <p><a href="#">Dmitri Patricio</a></p>
+                                    <p><a href="#">Carlos Benfica</a></p>
+                                    <p><a href="#">Robert Silva</a></p>
+                                    <p><a href="#">Vitor Vicentini</a></p>
+                                </figcaption>
+                            </figure>
+                            <figure class="col-lg-5 figure p-2">
+                                <img class="figure-img img-fluid rounded float-left" src="images/logo%20twiter.png" alt="" height="150" width="150" />
+                                <figcaption class="figure-caption float-right">
+                                    <p><a href="#">Dmitri Patricio</a></p>
+                                    <p><a href="#">Carlos Benfica</a></p>
+                                    <p><a href="#">Robert Silva</a></p>
+                                    <p><a href="#">Vitor Vicentini</a></p>
+                                </figcaption>
+                            </figure>
+                            <figure class="col-lg-5 figure p-2">
+                                <img class="figure-img img-fluid rounded float-left" src="images/logo%20whatsapp.png" alt="" height="150" width="150" />
+                                <figcaption class="figure-caption float-right">
+                                    <p><a href="#">Dmitri Patricio</a></p>
+                                    <p><a href="#">Carlos Benfica</a></p>
+                                    <p><a href="#">Robert Silva</a></p>
+                                    <p><a href="#">Vitor Vicentini</a></p>
+                                </figcaption>
                             </figure>
                         </article>
                     </div>
