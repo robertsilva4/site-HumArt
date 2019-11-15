@@ -32,7 +32,7 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Dmitri Patricio</h5>
+                                        <h5 class="card-title">Dmitri Lima</h5>
                                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
                                         <p>Sites:<a href="Historia-da-arte.php">História da Arte</a>,<a href="#">Espécies</a>.</p>
                                         <p class="card-text"><small class="text-muted">Função:Gerente</small></p>

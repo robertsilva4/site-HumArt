@@ -27,9 +27,9 @@
                         <article>
                             <h1 class="text-center p-3">Contatos</h1>
                             <figure class="col-lg-5 figure p-2">
-                                <img class="figure-img img-fluid rounded float-left" src="images/logo%20faceboook.png" alt="" height="150" width="150" />
+                                <img class="figure-img img-fluid rounded float-left" src="images/logo%20linkedin_100x100.png" alt="" height="100" width="100" />
                                 <figcaption class="figure-caption float-right">
-                                    <p><a href="#">Dmitri Patricio</a></p>
+                                    <p><a href="#">Dmitri lima</a></p>
                                     <p><a href="#">Carlos Benfica</a></p>
                                     <p><a href="#">Robert Silva</a></p>
                                     <p><a href="#">Vitor Vicentini</a></p>
@@ -38,7 +38,7 @@
                             <figure class="col-lg-5 figure p-2">
                                 <img class="figure-img img-fluid rounded float-left" src="images/logo%20linkedin.png" alt="" height="150" width="150" />
                                 <figcaption class="figure-caption float-right">
-                                    <p><a href="#">Dmitri Patricio</a></p>
+                                    <p><a href="#">Dmitri Lima</a></p>
                                     <p><a href="#">Carlos Benfica</a></p>
                                     <p><a href="#">Robert Silva</a></p>
                                     <p><a href="#">Vitor Vicentini</a></p>
@@ -47,7 +47,7 @@
                             <figure class="col-lg-5 figure p-2">
                                 <img class="figure-img img-fluid rounded float-left" src="images/logo%20twiter.png" alt="" height="150" width="150" />
                                 <figcaption class="figure-caption float-right">
-                                    <p><a href="#">Dmitri Patricio</a></p>
+                                    <p><a href="#">Dmitri Lima</a></p>
                                     <p><a href="#">Carlos Benfica</a></p>
                                     <p><a href="#">Robert Silva</a></p>
                                     <p><a href="#">Vitor Vicentini</a></p>
@@ -56,7 +56,7 @@
                             <figure class="col-lg-5 figure p-2">
                                 <img class="figure-img img-fluid rounded float-left" src="images/logo%20whatsapp.png" alt="" height="150" width="150" />
                                 <figcaption class="figure-caption float-right">
-                                    <p><a href="#">Dmitri Patricio</a></p>
+                                    <p><a href="#">Dmitri Lima</a></p>
                                     <p><a href="#">Carlos Benfica</a></p>
                                     <p><a href="#">Robert Silva</a></p>
                                     <p><a href="#">Vitor Vicentini</a></p>
@@ -79,7 +79,7 @@
                                     <select class="form-control" name="emailDestino" id="formulariodeselecao" required>
                                         <option value="">Selecionar uma opção</option>
                                         <option value="1">1-Carlos Benfica</option>
-                                        <option value="2">2-Dmitri Patricio</option>
+                                        <option value="2">2-Dmitri Lima</option>
                                         <option value="3">3-Robert Richard</option>
                                         <option value="4">4-Vitor Vicentini</option>
                                     </select>
