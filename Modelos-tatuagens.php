@@ -33,11 +33,11 @@
                                 <figcaption class="figure-caption"></figcaption>
                             </figure>
                             <figure class="figure p-4">
-                                <img src="images/color1_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="" width="300" height="250" />
+                                <img src="images/color_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="" width="300" height="250" />
                                 <figcaption class="figure-caption"></figcaption>
                             </figure>
                             <figure class="figure">
-                                <img src="images/floral3_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="" width="300" height="250" />
+                                <img src="images/floral_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="" width="300" height="250" />
                                 <figcaption class="figure-caption"> </figcaption>
                             </figure>
                         </div>

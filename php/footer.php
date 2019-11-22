@@ -1,7 +1,7 @@
 <?php
 
 echo'
-<div class=" text-capitalize font-weight-bold col-lg-12">
+<div class=" text-capitalize font-weight col-lg-12">
 <ul class=" list-inline">
   <li class="align-text-top list-inline-item"><a class="text-dark text-decoration-none" href="Index.php">Home</a></li>
   <li class="align-text-top list-inline-item">Historia da Arte

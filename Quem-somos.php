@@ -28,14 +28,13 @@
                         <div class="card mb-3 float-left" style="max-width: 550px; max-height:210px">
                             <div class="row no-gutters">
                                 <div class="col-md-4">
-                                    <img src="images/Dmitri_quemsomos.jpg" class="card-img" alt="..." width="186" height="190">
+                                    <img src="images/dmitri_186x190.jpg" class="card-img" alt="..." width="186" height="190">
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
                                         <h5 class="card-title">Dmitri Lima</h5>
-                                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-                                        <p>Sites:<a href="Historia-da-arte.php">História da Arte</a>,<a href="#">Espécies</a>.</p>
-                                        <p class="card-text"><small class="text-muted">Função:Gerente</small></p>
+                                        <p class="card-text"> Já passou dos 18 a um tempo, escreve, estuda, respira, estuda, trabalha e estuda. Porquê a Fatec tira a vida social. Função:Gerente</p>
+                                        <p class="text-muted">Sites: <a class="text-reset" href="Historia-da-arte.php"> História da Arte</a>,<a class="card-text text-reset" href="Especiesdaarte.php"> Espécies</a>.</p>
                                     </div>
                                 </div>
                             </div>
@@ -43,7 +42,7 @@
                         <div class="card mb-3 float-right" style="max-width: 550px; max-height:210px">
                             <div class="row no-gutters">
                                 <div class="col-md-4">
-                                    <img src="images/carlos_quemsomos.jpg" class="card-img" alt="..." width="186" height="190">
+                                    <img src="images/carlos_186x190.jpg" class="card-img" alt="..." width="186" height="190">
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
@@ -58,12 +57,12 @@
                         <div class="card mb-3 float-left" style="max-width: 550px; max-height:210px;">
                             <div class="row no-gutters">
                                 <div class="col-md-4">
-                                    <img src="images/robert_quemsomos.jpg" class="card-img" alt="..." width="186" height="190">
+                                    <img src="images/robert_186x190.jpg" class="card-img" alt="..." width="186" height="190">
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">
                                         <h5 class="card-title">Robert Silva</h5>
-                                        <p class="card-text text-justify"><small>Sou Robert Richard, tenho 22 anos atualmente desempregado, fiz curso na ETEC de Tecnico em Informática em 2015 e decidi fazer FATEC, porque gostei do curso e decidi me especializar na área Tecnológica. Função:Programador</small></p>
+                                        <p class="card-text text-justify"> 22 anos atualmente desempregado, cursou na ETEC de Técnico em Informática em 2015 e está cursando FATEC,porque quer se especializar na área Tecnológica. Função:Programador</p>
                                         <p class="text-muted">Sites:<a class="text-reset" href="Arte-cultural.php"> História da Arte Cultural</a>,<a class="card-text text-reset" href="Modelos-artecultural.php">Modelos</a>.</p>
                                     </div>
                                 </div>
@@ -72,7 +71,7 @@
                         <div class="card mb-3 float-right" style="max-width: 550px; max-height:210px;">
                             <div class="row no-gutters">
                                 <div class="col-md-4">
-                                    <img src="images/vitor_quemsomos.jpg" class="card-img" alt="imagem do integrante Vitor" width="186" height="190">
+                                    <img src="images/Vitor_186x190.jpg" class="card-img" alt="imagem do integrante Vitor" width="186" height="190">
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">

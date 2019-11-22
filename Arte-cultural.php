@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="bootstrap-4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/estilo.css">
+    <link href="https://fonts.googleapis.com/css?family=PT+Serif&display=swap" rel="stylesheet">
     <title> Arte e Cultura </title>
 </head>
 
