@@ -9,9 +9,11 @@
     <link rel="stylesheet" href="css/estilo.css">
     <link href="https://fonts.googleapis.com/css?family=PT+Serif&display=swap" rel="stylesheet">
     <title> Arte e Cultura </title>
+    
 </head>
 
 <body>
+    
     <div class="container">
         <div class="row">
             <header>

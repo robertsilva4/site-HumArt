@@ -24,12 +24,12 @@ echo'
   </li>
   <li class="align-text-top list-inline-item">Arte Tribal
   <ul>
-    <li><a href="Arte-tribal.php" class="text-dark text-decoration-none">Historia da Arte Tribal</a></li>
+    <li><aref="Arte-tribal.php" class="text-dark text-decoration-none">Historia da Arte Tribal</a></li>
     <li><a href="#" class="text-dark text-decoration-none">Modelos</a></li>
   </ul>
   </li>
   <li class="align-text-top list-inline-item"><a href="Quem-somos.php" class="text-dark text-decoration-none">Quem Somos</a></li>
-  <li class="align-text-top list-inline-item"><a href="Contatos.php" class="text-dark text-decoration-none">Contatos</a></li>
+  <li bclass="align-text-top list-inline-item"><a href="Contatos.php" class="text-dark text-decoration-none">Contatos</a></li>
 </ul> 
 <small> &copy; Dmitri Patrício de Lima, Carlos Daniel Barbosa Benfica, Vitor Gabriel Vicentini, Robert Richard Cruz da Silva</small> 
 </div>';

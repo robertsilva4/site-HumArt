@@ -16,8 +16,12 @@ html {
 
 body {
     background-color: #f0f0f0;
+    font-family: 'Times New Roman', serif;
 }
 
 footer ul li a {
     text-decoration: none;
+}
+nav{
+    font-family:'Arial', sans-serif;
 }
