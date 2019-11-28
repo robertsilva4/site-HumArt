@@ -28,7 +28,7 @@
                 <main>
                     <div class="float-lg-left col-lg-7">
                         <article>
-                            <h1 class="h1 text-center p-3"> Arte e Cultura </h1>
+                            <h1 class="h1 text-center p-3"> Arte e Cultura</h1>
                             <p class="text-justify"> A arte e a cultura são duas coisas fundamentais para o ser humano, e para o seu desenvolviento intelectual.</p>
                             <p class="text-justify">Sabemos que a arte é uma ferramenta utiizada para o ser expressar suas emoções, sentimentos e suas manifestações vem surgindo em diversas maneiras nas diversas culturas.</p>
                             <h2 class="h2 text-center p-3">Siginificado de cultura.</h2>

@@ -25,7 +25,7 @@
         <main>
           <div class="col-lg-7">
             <article>
-              <h2 class="text-center">Contate-nos</h2>
+              <h2 class="text-center">Contate-nos para mais detalhes</h2>
               <form action="codigo-email.php" method="POST">
                 <div class="form-group">
                   <div>
