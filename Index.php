@@ -14,7 +14,7 @@
 
 <body>
 </div>
-  <div class="text-center p-lg-4 col-lg-5 float-right alert-danger alert-dismissible fade show" role="alert">
+  <div class="text-center p-lg-4 col-lg-5 float-right alert alert-warning alert-dismissible fade show" role="alert">
   <strong>Atenção !</strong> 
   <p>Este site utiliza cookies, para ver as normas de utilização do site <a href="#">clique aqui</a></p>
   <button type="button" class="close" data-dismiss="alert" aria-label="Close">
