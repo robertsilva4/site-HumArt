@@ -63,7 +63,7 @@
                   <div class="card-body">
                     <h5 class="card-title">Robert Silva</h5>
                     <p class="card-text text-justify"> 22 anos atualmente desempregado, cursou na ETEC de Técnico em Informática em 2015 e está cursando FATEC,porque quer se especializar na área Tecnológica. Função:Programador</p>
-                    <p class="text-muted">Sites:<a class="text-reset" href="Arte-cultural.php"> História da Arte Cultural</a>,<a class="card-text text-reset" href="Modelos-artecultural.php">Modelos</a>.</p>
+                    <p class="text-muted">Sites:<a class="text-reset" href="Arteecultura.php">Arte e Cultura</a>,<a class="card-text text-reset" href="Modelos-artecultural.php">Modelos</a>.</p>
                   </div>
                 </div>
               </div>
