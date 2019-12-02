@@ -23,12 +23,16 @@
     <div class="row">
       <div class="col-lg-12">
         <article>
-          <h1 class="h1 text-center p-3">ARTE TRIBAL</h1>
-
-          <p class="text-justify">A arte tribal é a arte visual e a cultura material dos povos indígenas. Também conhecidas como arte não ocidental ou arte etnográfica, ou, controversa- mente, arte primitiva, as artes tribais têm sido coletadas historicamente por antropólogos ocidentais, colecionadores particulares e museus, principalmente museus etnográficos e de história natural.A arte tribal geralmente é de natureza cerimonial ou religiosa, tipicamente originária de áreas rurais.</p>
-          <p class="text-justify">A coleção de artes tribais tem sido historicamente inspirada no mito ocidental do "selvagem nobre", e a falta de contexto cultural tem sido um desafio para a percepção do público em geral sobre as artes tribais. No século 19, a arte não ocidental não era vista pela arte profissional ocidental como arte e em certas culturas, usavam objetos (argolas, arlargadores, pedaços de madeira, etc...) para representar a sua tribo, porem isso ocorreu mais no continente africano. A percepção do mundo artístico das artes tribais está se tornando menos paternalista, à medida que os defensores indígenas e não indígenas lutam por uma bolsa de estudos mais objetiva da arte tribal. Antes do surgimento do pós-modernismo na década de 1960, os críticos de arte abordaram as artes tribais a partir de uma abordagem puramente formalista, ou seja, respondendo apenas aos elementos visuais da obra e desconsiderando o contexto histórico, simbolismo ou a intenção do artista.</p>
-
-
+          <figure>
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <figcaption></figcaption>
+          </figure>
+          
           <h2 class="h2 text-center p-3">Tatuagem Tribal</h2>
 
           <p class="text-justify">A tatuagem tribal é considerada por muitos como a primeira forma de tatuagem disponível e O uso desses desenhos sobre a pele é um costume presente em muitas civilizações da antiguidade, que eram muito presentes nos povo da Nova Zelândia, Samoa e Tailândia. Assim como os desenhos encontrados em cavernas com representações de luta e caça, como pinturas inteiras sobre a pele da pessoa, que tinham e ainda têm o mesmo objetivo representar um momento ou acontecimento marcante para eles.</p>

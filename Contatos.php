@@ -21,12 +21,12 @@
       <?php include 'php/nav.php';?>
     </div>
     <div class="row">
-      <div class="col-lg">
+      <div class="col-lg-12">
         <main>
           <div class="col-lg-7">
             <article>
               <h2 class="text-center">Contate-nos para mais detalhes</h2>
-              <form action="codigo-email.php" method="POST">
+              <form action="php/email.php" method="POST">
                 <div class="form-group">
                   <div>
                     <label for="emailcliente">Digite o seu E-mail:</label>

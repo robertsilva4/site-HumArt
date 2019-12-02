@@ -13,6 +13,7 @@
 </head>
 
 <body>
+
 </div>
   <div class="text-center p-lg-4 col-lg-5 float-right alert alert-warning alert-dismissible fade show" role="alert">
   <strong>Atenção !</strong> 
@@ -72,8 +73,16 @@
           </div>
           <div class="col-lg-4 float-lg-right">
             <aside>
-              <h2 class="text-center p-3">O que é arte? </h2>
-              <p class="text-justify ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu pharetra arcu. Nunc bibendum dui et gravida viverra. Morbi pretium cursus purus, maximus ornare sem tempor et. Nulla vitae eros lobortis, laoreet mi vitae, consequat turpis. Fusce enim diam, fringilla nec ornare ut, laoreet sit amet diam. Nunc vel purus ac quam commodo porta. Praesent vitae massa nibh. Aliquam laoreet fermentum diam vitae lobortis. Morbi consectetur arcu et augue vestibulum, eu mattis quam dignissim. Nullam semper lobortis orci, et ornare ligula mattis at.</p>
+              <h2 class="text-center p-3">O que é a arte? </h2>
+              <p class="text-justify ">A arte é uma habilidade ou disposição dirigida para a execução de uma finalidade prática ou teórica
+                realizada de forma consciente, controlada e racional, ou seja a are é definida por nossos sentimentos e emoção e pode
+                 ser definida em diversas maneiras tanto na forma de pensar, agir e até na forma de definir suas emoções. </p>
+              <h2 class="text-center p-3">Qual a ligação da arte com a natureza?</h2>
+              <p class="text-justify">Difícil falar em poucas linhas sobre dois “temas” tão abrangentes como arte e natureza, 
+e mais ainda sobre a relação entre eles. Se quisermos defini-los, não o faremos com muita facilidade, apesar de sermos íntimos
+dos dois, seus significados são tão amplos que escapam às palavras. Enfim, a arte pode ser um simples modo de olhar , e a natureza
+pode ser também uma sensação, dentre infinitas definições. Vejamos se essa seleção de filmes escolhidos nos ajudam a pensar sobre
+essa relação entre arte e natureza.</p> <b>Fonte:Aline Albuquerque</b> <a href="https://cineclubeserverluz.wordpress.com/textos2/arte-e-natureza/">ver mais</a>
             </aside>
           </div>
         </main>

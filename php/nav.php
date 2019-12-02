@@ -19,7 +19,7 @@ echo'
             </div>
         </li>
         <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Tatuagens</a>
+            <a class="nav-link disabled dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Tatuagens</a>
             <div class="dropdown-menu">
                 <a class="dropdown-item" href="Tatuagens.php">Historia da tatuagem</a>
                 <a class="dropdown-item" href="Modelos-tatuagens.php">Modelos</a>
