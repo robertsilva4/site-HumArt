@@ -24,8 +24,8 @@
       <div class="col-lg-12">
         <main>
           <article>
-            <h1 class="col-lg-12"> Historia da arte </h1>
-            <h1> Historia da Arte Alternativa </h1>
+            <h1 class="col-lg-12"> Historia da Arte Alternativa </h1>
+            <div class="text-justify">
                         <p> Falar sobre a Arte é falar sobre a vida, sobre o respirar, o viver e o sentir. Para está pequena frase, existem varios significados.
                         Dentre os quais, cabe sitar, o etmologico, o filsofico e mesmo o os populares, como "dominar a arte de ...",além do famoso "Fulano das tantas está fazendo arte"(aprontando). </p>
 
@@ -56,8 +56,7 @@
                             Assim como também, é importante salientar que, está forma de arte é uma expressão de protesto e sentimentos descritos em arte muitas vezes</p>
 
                         <p>As demais formas como a Arte Tribal ou etnica,  e Arte Cultural(ou Arte Social, que é oriunda de nichos Culturais, como o Grunge, o Punk e o Funk), são meios de expressão alternativa, protesto e demonstração de sentimentos intrinsicos.</p>
-
-
+            </div>
           </article>
         </main>
       </div>
