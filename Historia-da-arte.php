@@ -24,7 +24,7 @@
       <div class="col-lg-12">
         <main>
           <article>
-            <h1> Historia da arte </h1>
+            <h1 class="col-lg-12"> Historia da arte </h1>
           </article>
         </main>
       </div>

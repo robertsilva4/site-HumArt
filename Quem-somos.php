@@ -48,7 +48,7 @@
                   <div class="card-body">
                     <h5 class="card-title">Carlos Benfica</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-                    <p>Sites:<a href="Tatuagens.php">História da Tatoo</a>,<a href="#">Modelos</a>.</p>
+                    <p>Sites:<a href="#">História da Tatoo</a>,<a href="#">Modelos</a>.</p>
                     <p class="card-text"><small class="text-muted">Função:Design</small></p>
                   </div>
                 </div>
@@ -63,7 +63,7 @@
                   <div class="card-body">
                     <h5 class="card-title">Robert Silva</h5>
                     <p class="card-text text-justify"> 22 anos atualmente desempregado, cursou na ETEC de Técnico em Informática em 2015 e está cursando FATEC,porque quer se especializar na área Tecnológica. Função:Programador</p>
-                    <p class="text-muted">Sites:<a class="text-reset" href="Arteecultura.php">Arte e Cultura</a>,<a class="card-text text-reset" href="Modelos-artecultural.php">Modelos</a>.</p>
+                    <p class="text-muted">Sites:<a class="text-reset" href="Arteecultura.php"> Arte e Cultura</a>,<a class="card-text text-reset" href="Modelos-artecultural.php">Modelos</a>.</p>
                   </div>
                 </div>
               </div>
@@ -77,7 +77,7 @@
                   <div class="card-body">
                     <h5 class="card-title">Vitor Vicentini</h5>
                     <p class="card-text"><small>This is a wider card with supporting text below as a natural lead-in to additional content. Função:Programador2</small></p>
-                    <p class="text-muted">Sites:<a class="text-reset" href="Arte-tribal.php">História da Arte Tribal</a>,<a class="text-reset" href="#">Modelos</a>.</p>
+                    <p class="text-muted">Sites:<a class="text-reset" href="Arte-tribal.php"> História da Arte Tribal</a>,<a class="text-reset" href="#">Modelos</a>.</p>
                     <p class="card-text"><small class="text-muted"></small></p>
                   </div>
                 </div>

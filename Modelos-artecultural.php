@@ -27,29 +27,29 @@
             <h1 class="text-center p-3"> Modelos da Arte Cultural </h1>
             <div class="text-center">
               <figure class="figure">
-                <a href="https://multarte.com.br/arte-africana-e-cultura-afro/"><img src="images/cultura-africana_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagem de uma roda da cultura africana" width="300" height="250" /></a>
+                <a target="_blank"href="https://multarte.com.br/arte-africana-e-cultura-afro/"><img src="images/cultura-africana_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagem de uma roda da cultura africana" width="300" height="250" /></a>
                 <figcaption class="figure-caption">Cultura Africana</figcaption>
               </figure>
               <figure class="figure p-4">
-                <a href="http://www.araraquara.sp.gov.br/noticias/2019/outubro/29/vice-prefeito-prestigia-festival-de-arte-e-cultura-chinesa"><img src="images/cultura%20chinesa_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagem de pessoas chineses segurando um dragão" width="300" height="250" /></a>
+                <a target="_blank" href="http://www.araraquara.sp.gov.br/noticias/2019/outubro/29/vice-prefeito-prestigia-festival-de-arte-e-cultura-chinesa"><img src="images/cultura%20chinesa_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagem de pessoas chineses segurando um dragão" width="300" height="250" /></a>
                 <figcaption class="figure-caption">Cultura chinesa</figcaption>
               </figure>
               <figure class="figure">
-                <a href="http://www.bentogoncalves.rs.gov.br/noticia/arte-e-cultura-italiana-em-evidencia"><img src="images/cultura%20italiana_300x250.jpg" class=" figure-img img-fluid rounded mx-auto d-bloc" alt="imagens de pessoas cantando em italiano" width="300" height="250" /></a>
+                <a target="_blank" href="http://www.bentogoncalves.rs.gov.br/noticia/arte-e-cultura-italiana-em-evidencia"><img src="images/cultura%20italiana_300x250.jpg" class=" figure-img img-fluid rounded mx-auto d-bloc" alt="imagens de pessoas cantando em italiano" width="300" height="250" /></a>
                 <figcaption class="figure-caption"> cultura italiana</figcaption>
               </figure>
             </div>
             <div class="text-center">
               <figure class="figure">
-                <a href="https://mundo-nipo.com/servicos/26/04/2016/recife-recebe-megaevento-sobre-cultura-e-arte-japonesa/"><img src="images/cutura%20japonesa_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagens de roupas e esculturas japonesas" width="300" height="250" /></a>
+                <a target="_blank" href="https://mundo-nipo.com/servicos/26/04/2016/recife-recebe-megaevento-sobre-cultura-e-arte-japonesa/"><img src="images/cutura%20japonesa_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagens de roupas e esculturas japonesas" width="300" height="250" /></a>
                 <figcaption class="figure-caption">cultura japoesa roupas e artesanatos</figcaption>
               </figure>
               <figure class="figure p-4">
-                <a href="https://www.juicysantos.com.br/diversao/agenda-de-santos-e-regiao/arriba-santos-cultura-mexicana-em-santos/"><img src="images/danca%20mexicana_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagem de cantores mexicanos com chapeu sombreiro" width="300" height="250" /></a>
+                <a target="_blank" href="https://www.juicysantos.com.br/diversao/agenda-de-santos-e-regiao/arriba-santos-cultura-mexicana-em-santos/"><img src="images/danca%20mexicana_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagem de cantores mexicanos com chapeu sombreiro" width="300" height="250" /></a>
                 <figcaption class="figure-caption">Cultura mexicana dança folclorica</figcaption>
               </figure>
               <figure class="figure">
-                <a href="http://fundacaotelefonica.org.br/noticias/perus-bairro-de-sao-paulo-se-transforma-por-meio-da-arte-e-cultura/"><img src="images/arte%20quilombaque_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagem da cultura quilombaque Brasileira" width="300" height="250" /></a>
+                <a target="_blank" href="http://fundacaotelefonica.org.br/noticias/perus-bairro-de-sao-paulo-se-transforma-por-meio-da-arte-e-cultura/"><img src="images/arte%20quilombaque_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagem da cultura quilombaque Brasileira" width="300" height="250" /></a>
                 <figcaption class="figure-caption">Cultura quilombaque Brasileira</figcaption>
               </figure>
             </div>
