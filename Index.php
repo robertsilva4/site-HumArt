@@ -23,7 +23,9 @@
   <div class="container">
     <div class="row">
       <header>
+      <div class="col-lg-12">
         <?php include 'php/header.php';?>
+      </div>
       </header>
     </div>
     <div class="row">
