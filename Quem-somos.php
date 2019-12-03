@@ -25,12 +25,12 @@
         <main>
           <article>
             <h1 class="text-center p-3">Quem Somos</h1>
-            <div class="card mb-3 float-left" style="max-width: 550px; max-height:210px">
+            <div class="card mb-3 float-lg-left" style="max-width: 550px; max-height:210px">
               <div class="row no-gutters">
-                <div class="col-md-4">
+                <div class="col-md-4 col-4">
                   <img src="images/dmitri_186x190.jpg" class="card-img" alt="..." width="186" height="190">
                 </div>
-                <div class="col-md-7">
+                <div class="col-md-7 col-7">
                   <div class="card-body">
                     <h5 class="card-title">Dmitri Lima</h5>
                     <p class="card-text"> Já passou dos 18 a um tempo, escreve, estuda, respira, estuda, trabalha e estuda. Porquê a Fatec tira a vida social. Função:Gerente</p>
@@ -39,12 +39,12 @@
                 </div>
               </div>
             </div>
-            <div class="card mb-3 float-right" style="max-width: 550px; max-height:210px">
+            <div class="card mb-3 float-lg-right" style="max-width: 550px; max-height:210px">
               <div class="row no-gutters">
-                <div class="col-md-4">
+                <div class="col-md-4 col-4">
                   <img src="images/carlos_186x190.jpg" class="card-img" alt="..." width="186" height="190">
                 </div>
-                <div class="col-md-7">
+                <div class="col-md-7 col-7">
                   <div class="card-body">
                     <h5 class="card-title">Carlos Benfica</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
@@ -54,26 +54,26 @@
                 </div>
               </div>
             </div>
-            <div class="card mb-3 float-left" style="max-width: 550px; max-height:210px;">
+            <div class="card mb-3 float-lg-left" style="max-width: 550px; max-height:210px;">
               <div class="row no-gutters">
-                <div class="col-md-4">
+                <div class="col-md-4 col-4">
                   <img src="images/robert_186x190.jpg" class="card-img" alt="..." width="186" height="190">
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-7 col-7">
                   <div class="card-body">
                     <h5 class="card-title">Robert Silva</h5>
-                    <p class="card-text text-justify"> 22 anos atualmente desempregado, cursou na ETEC de Técnico em Informática em 2015 e está cursando FATEC,porque quer se especializar na área Tecnológica. Função:Programador</p>
+                    <p class="card-text text-justify"> 22 anos atualmente desempregado, cursou na ETEC de São Roque Técnico em Informática em 2015 e está cursando FATEC. Função:Programador</p>
                     <p class="text-muted">Sites:<a class="text-reset" href="Arteecultura.php"> Arte e Cultura</a>,<a class="card-text text-reset" href="Modelos-artecultural.php">Modelos</a>.</p>
                   </div>
                 </div>
               </div>
             </div>
-            <div class="card mb-3 float-right" style="max-width: 550px; max-height:210px;">
+            <div class="card mb-3 float-lg-right float-sm-left " style="max-width: 550px; max-height:210px;">
               <div class="row no-gutters">
-                <div class="col-md-4">
+                <div class="col-md-4 col-4">
                   <img src="images/Vitor_186x190.jpg" class="card-img" alt="imagem do integrante Vitor" width="186" height="190">
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-7 col-7">
                   <div class="card-body">
                     <h5 class="card-title">Vitor Vicentini</h5>
                     <p class="card-text"><small>This is a wider card with supporting text below as a natural lead-in to additional content. Função:Programador2</small></p>

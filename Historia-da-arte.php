@@ -64,6 +64,7 @@
   </div>
   <div class=" align-text-top bg-dark">
     <footer>
+      
       <?php include 'php/footer.php';?>
     </footer>
   </div>

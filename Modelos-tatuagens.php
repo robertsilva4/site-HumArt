@@ -27,30 +27,30 @@
         <main>
           <article>
             <h1 class="text-center p-3"> Modelos de Tatuagens</h1>
-            <div class="text-center">
-              <figure class="figure">
+            <div class="text-center col-12">
+              <figure class="justify-content-center float-lg-left float-md-left figure p-3">
                 <img src="images/biom1_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="" width="300" height="250" />
                 <figcaption class="figure-caption"></figcaption>
               </figure>
-              <figure class="figure p-4">
+              <figure class="justify-content-center float-lg-none float-md-left figure p-3">
                 <img src="images/color_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="" width="300" height="250" />
                 <figcaption class="figure-caption"></figcaption>
               </figure>
-              <figure class="figure">
+              <figure class="justify-content-center float-lg-right float-md-left figure p-3">
                 <img src="images/floral_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="" width="300" height="250" />
                 <figcaption class="figure-caption"> </figcaption>
               </figure>
             </div>
-            <div class="text-center">
-              <figure class="figure">
+            <div class="text-center col-12">
+              <figure class="justify-content-center float-lg-left float-md-left figure p-3">
                 <img src="images/fromh1_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="" width="300" height="250" />
                 <figcaption class="figure-caption"></figcaption>
               </figure>
-              <figure class="figure p-4">
+              <figure class="justify-content-center float-lg-none float-md-left figure p-3">
                 <img src="images/let3_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="" width="300" height="250" />
                 <figcaption class="figure-caption"></figcaption>
               </figure>
-              <figure class="figure">
+              <figure class="justify-content-center float-lg-right float-md-left figure p-3">
                 <img src="images/maori1_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="" width="300" height="250" />
                 <figcaption class="figure-caption"></figcaption>
               </figure>

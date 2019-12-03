@@ -15,7 +15,7 @@
 <body>
   <div class="text-center col-lg-5 float-right alert alert-warning alert-dismissible fade show" role="alert">
   <strong>Atenção !</strong> 
-  <p>Este site utiliza dados do seu cookie, Leia as normas de utilização do site</p> <a href="termosdeuso.php">clique aqui</a>
+  <p>Este site pode utilizar dados salvos no seu cookie, Leia as normas de utilização do site</p> <a href="termosdeuso.php">clique aqui</a>
   <button type="button" class="close" data-dismiss="alert" aria-label="Close">
     <span aria-hidden="true">&times;</span>
   </button>
@@ -32,44 +32,7 @@
     <div class="row">
       <div class="col-lg-12">
         <main>
-          <div class="col-lg-8 col-md-12 float-left p-3">
-            <article>
-              <h1 class="text-center">Todos os tipos de artes</h1>
-              <div class="col-lg-6 float-lg-left p-2 ">
-                <div class="card" style="width: 18rem;">
-                  <img src="images/arte%20quilombaque_300x250.jpg" class="card-img-top" width="200" height="200" alt="">
-                  <div class="card-body">
-                    <p class="card-text">O quilambaque é uma comunidade de origem aficana, está localizado no bairro de Perus.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-6 float-lg-right p-2">
-                <div class="card" style="width: 18rem;">
-                  <img src="images/biom1_300x250.jpg" class="card-img-top" width="200" height="200" alt="">
-                  <div class="card-body">
-                    <p class="card-text"> O estilo Bio Mecânico é composto de tatuagens que imitam na pele objetos mecânicos .</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-6 float-lg-left p-2">
-                <div class="card" style="width: 18rem;">
-                  <img src="images/capoeira_cultura300x250.jpg" class="card-img-top" width="200" height="200" alt="">
-                  <div class="card-body">
-                    <p class="card-text">A capoeira cultural brasileira mistura arte marcial, esporte, cultura popular, dança e música.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-6 float-lg-right p-2">
-                <div class="card" style="width: 18rem;">
-                  <img src="images/cutura%20japonesa_300x250.jpg" class="card-img-top" width="200" height="200" alt="">
-                  <div class="card-body">
-                    <p class="card-text">O Japão exibe uma cultura multifacetada, com tradições milenares cujas marcas persistem.</p>
-                  </div>
-                </div>
-              </div>
-            </article>
-          </div>
-          <div class="col-lg-4 float-lg-right">
+        <div class="col-lg-4 col-md-12 col-sm-12 float-lg-right ">
             <aside>
               <h2 class="text-center p-3">O que é a arte? </h2>
               <p class="text-justify ">A arte é uma habilidade ou disposição dirigida para a execução de uma finalidade prática ou teórica
@@ -82,6 +45,43 @@ dos dois, seus significados são tão amplos que escapam às palavras. Enfim, a 
 pode ser também uma sensação, dentre infinitas definições. Vejamos se essa seleção de filmes escolhidos nos ajudam a pensar sobre
 essa relação entre arte e natureza.</p> <b>Fonte:Aline Albuquerque</b> <a target="_blank" href="https://cineclubeserverluz.wordpress.com/textos2/arte-e-natureza/">ver mais</a>
             </aside>
+          </div>
+          <div class="col-lg-8 col-md-12 col-sm-12 float-lg-left p-2">
+            <article>
+              <h1 class="text-center p-lg-2 p-md-3">Todos os tipos de artes</h1>
+              <div class="col-lg-6 col-md-6 d-flex justify-content-center float-lg-left float-md-left p-2">
+                <div class="card" style="width: 18rem;">
+                  <img src="images/arte%20quilombaque_300x250.jpg" class="card-img-top" width="200" height="200" alt="">
+                  <div class="card-body">
+                    <p class="card-text">O quilambaque é uma comunidade de origem aficana, está localizado no bairro de Perus.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-6 col-md-6 d-flex justify-content-center float-lg-right float-md-right p-2 ">
+                <div class="card" style="width: 18rem;">
+                  <img src="images/biom1_300x250.jpg" class="card-img-top" width="200" height="200" alt="">
+                  <div class="card-body">
+                    <p class="card-text"> O estilo Bio Mecânico é composto de tatuagens que imitam na pele objetos mecânicos .</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-6 col-md-6 d-flex justify-content-center float-lg-left float-md-left p-2">
+                <div class="card" style="width: 18rem;">
+                  <img src="images/capoeira_cultura300x250.jpg" class="card-img-top" width="200" height="200" alt="">
+                  <div class="card-body">
+                    <p class="card-text">A capoeira cultural brasileira mistura arte marcial, esporte, cultura popular, dança e música.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-6 col-md-6 d-flex justify-content-center float-lg-right float-md-right p-2">
+                <div class="card" style="width: 18rem;">
+                  <img src="images/cutura%20japonesa_300x250.jpg" class="card-img-top" width="200" height="200" alt="">
+                  <div class="card-body">
+                    <p class="card-text">O Japão exibe uma cultura multifacetada, com tradições milenares cujas marcas persistem.</p>
+                  </div>
+                </div>
+              </div>
+            </article>
           </div>
         </main>
       </div>
