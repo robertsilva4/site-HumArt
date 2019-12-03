@@ -13,11 +13,9 @@
 </head>
 
 <body>
-
-</div>
   <div class="text-center col-lg-5 float-right alert alert-warning alert-dismissible fade show" role="alert">
   <strong>Atenção !</strong> 
-  <p>Este site utiliza cookies, para ver as normas de utilização do site <a target="_blank" href="termosdeuso.php">clique aqui</a></p>
+  <p>Este site utiliza dados do seu cookie, Leia as normas de utilização do site</p> <a href="termosdeuso.php">clique aqui</a>
   <button type="button" class="close" data-dismiss="alert" aria-label="Close">
     <span aria-hidden="true">&times;</span>
   </button>
@@ -34,7 +32,7 @@
     <div class="row">
       <div class="col-lg-12">
         <main>
-          <div class="col-lg-8 float-left p-3">
+          <div class="col-lg-8 col-md-12 float-left p-3">
             <article>
               <h1 class="text-center">Todos os tipos de artes</h1>
               <div class="col-lg-6 float-lg-left p-2 ">
@@ -82,7 +80,7 @@
 e mais ainda sobre a relação entre eles. Se quisermos defini-los, não o faremos com muita facilidade, apesar de sermos íntimos
 dos dois, seus significados são tão amplos que escapam às palavras. Enfim, a arte pode ser um simples modo de olhar , e a natureza
 pode ser também uma sensação, dentre infinitas definições. Vejamos se essa seleção de filmes escolhidos nos ajudam a pensar sobre
-essa relação entre arte e natureza.</p> <b>Fonte:Aline Albuquerque</b> <a href="https://cineclubeserverluz.wordpress.com/textos2/arte-e-natureza/">ver mais</a>
+essa relação entre arte e natureza.</p> <b>Fonte:Aline Albuquerque</b> <a target="_blank" href="https://cineclubeserverluz.wordpress.com/textos2/arte-e-natureza/">ver mais</a>
             </aside>
           </div>
         </main>
@@ -96,6 +94,7 @@ essa relação entre arte e natureza.</p> <b>Fonte:Aline Albuquerque</b> <a href
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    </div>
 </body>
 
 </html>

@@ -27,7 +27,7 @@
             <h1 class="text-center p-3"> Modelos da Arte Cultural </h1>
             <div class="text-center">
               <figure class="figure">
-                <a target="_blank"href="https://multarte.com.br/arte-africana-e-cultura-afro/"><img src="images/cultura-africana_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagem de uma roda da cultura africana" width="300" height="250" /></a>
+                <a target="_blank" href="https://multarte.com.br/arte-africana-e-cultura-afro/"><img src="images/cultura-africana_300x250.jpg" class="figure-img img-fluid rounded mx-auto d-bloc" alt="imagem de uma roda da cultura africana" width="300" height="250" /></a>
                 <figcaption class="figure-caption">Cultura Africana</figcaption>
               </figure>
               <figure class="figure p-4">
