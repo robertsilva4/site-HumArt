@@ -27,7 +27,8 @@
                         <article>
                             <div class="tab-content" id="nav-tabContent">
                                 <div class="tab-pane fade show active" id="list-profile1" role="tabpanel" aria-labelledby="list-profile-list">
-                                    <h1>1. Apresentação e definições</h1>
+                                    <h1 class="p-3">1. Apresentação e definições</h1>
+                                    <div class="text-justify">
                                     <p>Este site é de propriedade, mantido, e operado por HumArt
                                         com endereço na rua da esquina, e endereço de e-mail sitehumart@gmail.com
                                         Este documento relaciona os termos e condições que devem ser observados pelo
@@ -61,9 +62,11 @@
                                         as páginas nele compreendidas; e
                                         Usuários. Quaisquer pessoas que acessem o Site, incluindo visitantes anônimos e
                                         Clientes.</p>
+                                        </div>
                                 </div>
                                 <div class="tab-pane fade" id="list-profile2" role="tabpanel" aria-labelledby="list-profile-list">
-                                    <h2>2. Regras de utilização do Site</h2>
+                                    <h2 class="p-3">2. Regras de utilização do Site</h2>
+                                    <div class="text-justify">
                                     <p>O Usuário obriga-se a utilizar o Site respeitando e observando estes Termos e
                                         Condições de Uso, bem como a legislação vigente, os costumes e a ordem pública.
                                         Desta forma, o Usuário concorda que não poderá:</p>
@@ -128,9 +131,11 @@
                                         ao Site, total ou parcialmente, sem qualquer aviso prévio, sempre que for
                                         detectada uma conduta inadequada do Usuário, sem prejuízo das medidas
                                         administrativas, extrajudiciais e judiciais que julgar convenientes.</p>
+                                            </div>
                                 </div>
                                 <div class="tab-pane fade" id="list-profile3" role="tabpanel" aria-labelledby="list-profile-list">
-                                    <h2> Cadastro de Clientes </h2>
+                                    <h2 class="p-3">3. Cadastro de Clientes </h2>
+                                    <div class="text-justify">
                                     <p>Para obter acesso ao conteúdo completo e a todas as ferramentas e
                                         funcionalidades do Site, o Usuário deverá criar uma Conta com dados pessoais
                                         e/ou empresarial, os quais serão armazenados e utilizados para identificação, a
@@ -164,9 +169,11 @@
                                         civil e criminalmente por qualquer Compra realizada, violação cometida ou
                                         declaração falsa, incompleta, desatualizada ou imprecisa prestada pelo menor de
                                         18 anos.</p>
+                                        </div>
                                 </div>
                                 <div class="tab-pane fade" id="list-profile4" role="tabpanel" aria-labelledby="list-profile-list">
-                                    <h2> Dados pessoais, privacidade e segurança</h2>
+                                    <h2 class="p-3"> 4. Dados pessoais, privacidade e segurança</h2>
+                                    <div class="text-justify">
                                     <p>A HumArt toma todas as medidas necessárias para proteger a privacidade
                                         do Usuário, em atendimento à legislação em vigor. Este documento detalha as
                                         formas de coleta, guarda, utilização, compartilhamento e divulgação de seus
@@ -200,6 +207,7 @@
                                         compilados de forma conjunta, para aumentar a assertividade dos algoritmos de
                                         aprendizagem. Todo o conhecimento adquirido com as informações fornecidas
                                         são de total exclusividade HumArt.<p>
+                                        </div>
                                 </div>
                             </div>
                         </article>

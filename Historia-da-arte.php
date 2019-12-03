@@ -25,6 +25,39 @@
         <main>
           <article>
             <h1 class="col-lg-12"> Historia da arte </h1>
+            <h1> Historia da Arte Alternativa </h1>
+                        <p> Falar sobre a Arte é falar sobre a vida, sobre o respirar, o viver e o sentir. Para está pequena frase, existem varios significados.
+                        Dentre os quais, cabe sitar, o etmologico, o filsofico e mesmo o os populares, como "dominar a arte de ...",além do famoso "Fulano das tantas está fazendo arte"(aprontando). </p>
+
+                        <p>Dizem que a arte é tão antiga quanto a própria vida, e que nesse contexto se encontram diversas questões a serem observadas, como as pinturas rupestres ou a própria Vênus de Willendorf, uma das mais antigas estatuas feitas por meio de arte.
+                        não só de classicos e modinhas artisticas viverá o homem, mas também da produção independete de arte também.
+
+                        E é nesse cenário de outsiders, ou pular fora da regra que se vieram as mais variadas formas de arte, que apesár de antigas, 
+                        seculares ou milenares, que alguns vêem a Arte divergente como "Altenativa", isso quer dizer fora de um padrão ou contexto social, ou melhor dizendo
+                        de uma forma relativista.</p>
+
+                        <p> Arte em geral é um assunto imensamente extenso, pois, além do movimentos artisticos, que fizeram marcos na história.
+                        Pode-se falar por movimentos locais, como a Literatura de Cordel, que faz parte de nossos movimentos culturais e folcloricos do Nordeste brasileiro.
+                        não obstante é aqui, digo nesta situação e não area, que se criaram conceitos intelectuais e elitistas, para subagrupar a arte, em oposição e antagonicos, 
+                        surgem movimentos libertarios e livres ou não aos quais criticam as rotulações inlectuais e prezam pela sua singularidade.</p>
+
+                        <p>Dentre os movimentos alternativos (adjetivo
+                         1.que se diz, faz ou ocorre com alternância, 2.
+                        que oferece possibilidade de escolha, de opção.), encontram se o Teatro de Zé Celso (teatro dos absurdos), os movimentos artisticos das decadas passadas como o Happenig, e o mais recente da "Performance", ao qual é fruto do hibridismo. </p>
+
+                        <p> O quê então vêm a ser "Arte Alternativa", em nosso conceito a Arte Alternativa, não só é aquela que foge dos 
+                            padrôes sociais globais, mas como também uma endemica ou global, que fica aquém do consenso dos medianos, a que 
+                            que foge do senso de visual, padrão ou mainstream, como a que não é de origem ou até possa mas não como primazia ser de 
+                            gosto elitista, nas formas de arte que consideramos como alternativa se focamos nos movimentos tribais, nos movimentos
+                            que são artes diferenciadas e de cunho tradicional ou releituras como a tatuagem e o grafite</p>
+
+                        <p> Neste momento, deve-se estar perguntando o porquê destas escolhas, bom em si temos alguns motivos para isso, a tatuagem têm uma origem bem antiga,
+                            relatos com mais de centenas de anos, quieça milenios, e é uma forma de expressão humana, social, corporal, em algumas localidades cultural.
+                            Assim como também, é importante salientar que, está forma de arte é uma expressão de protesto e sentimentos descritos em arte muitas vezes</p>
+
+                        <p>As demais formas como a Arte Tribal ou etnica,  e Arte Cultural(ou Arte Social, que é oriunda de nichos Culturais, como o Grunge, o Punk e o Funk), são meios de expressão alternativa, protesto e demonstração de sentimentos intrinsicos.</p>
+
+
           </article>
         </main>
       </div>
