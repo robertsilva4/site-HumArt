@@ -29,4 +29,4 @@ fwrite($docMensagem, $mensagem . PHP_EOL);
 
 fclose($docMensagem);
 
-echo('mensagem enviada com sucesso');
+fopen('Contatos.php', PHP_EOL);
