@@ -23,8 +23,8 @@
     <div class="row">
       <div class="col-lg-12">
         <main>
-        <div class="col-lg-8 float-right">
           <article>
+            <img src="images/cultura chinesa_300x250"  alt="imagem da cultura chinesa" width="300" height="250">
             <h1 class="text-center"> Historia da Arte Alternativa </h1>
             <div class="text-justify">
                         <p> Falar sobre a Arte é falar sobre a vida, sobre o respirar, o viver e o sentir. Para está pequena frase, existem varios significados.
@@ -58,7 +58,6 @@
 
                         <p>As demais formas como a Arte Tribal ou etnica,  e Arte Cultural(ou Arte Social, que é oriunda de nichos Culturais, como o Grunge, o Punk e o Funk), são meios de expressão alternativa, protesto e demonstração de sentimentos intrinsicos.</p>
             </div>
-          </article>
         </div>
         </main>
       </div>
