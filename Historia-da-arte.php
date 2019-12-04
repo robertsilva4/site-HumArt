@@ -24,7 +24,7 @@
       <div class="col-lg-12">
         <main>
           <article>
-            <img src="images/cultura chinesa_300x250"  alt="imagem da cultura chinesa" width="300" height="250">
+            <img src="images/cultura chinesa_300x250.jpg"  alt="imagem da cultura chinesa" width="300" height="250">
             <h1 class="text-center"> Historia da Arte Alternativa </h1>
             <div class="text-justify">
                         <p> Falar sobre a Arte é falar sobre a vida, sobre o respirar, o viver e o sentir. Para está pequena frase, existem varios significados.
